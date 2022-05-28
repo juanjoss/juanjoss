@@ -10,11 +10,6 @@ My name is Juan, I'm from Argentina and I'm programmer.
 * Open Food Facts API
   - https://github.com/juanjoss/off-etl
   - https://github.com/juanjoss/off-generator
-
-* Compression Algorithms
-  - https://github.com/juanjoss/LZ77
-  - https://github.com/juanjoss/huffman
-  - https://github.com/juanjoss/arco
  
 * University Assigments
   - https://github.com/juanjoss/ds2
@@ -27,6 +22,10 @@ My name is Juan, I'm from Argentina and I'm programmer.
   - https://github.com/juanjoss/nn
   - https://github.com/juanjoss/golb
   - https://github.com/juanjoss/shorturl
+  - Compression Algorithms
+    - https://github.com/juanjoss/LZ77
+    - https://github.com/juanjoss/huffman
+    - https://github.com/juanjoss/arco
 
 ## Contact
 
