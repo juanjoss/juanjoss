@@ -10,7 +10,8 @@ My name is Juan, I'm from Argentina and I'm programmer.
 * Open Food Facts API
   - https://github.com/juanjoss/off-etl
   - https://github.com/juanjoss/off-generator
-  - https://github.com/juanjoss/off-services
+  - https://github.com/juanjoss/off-orders-service
+  - https://github.com/juanjoss/off-users-service
  
 * University Assigments
   - https://github.com/juanjoss/ds2
