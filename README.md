@@ -32,5 +32,7 @@ My name is Juan, I'm a programmer from Argentina.
 ## Contact
 
 Email: josserandjuan@gmail.com
+
 LinkedIn: linkedin.com/in/juan-josserand
+
 <!-- Website: in progress... -->
