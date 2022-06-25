@@ -33,6 +33,6 @@ My name is Juan, I'm a programmer from Argentina.
 
 Email: josserandjuan@gmail.com
 
-LinkedIn: linkedin.com/in/juan-josserand
+LinkedIn: https://linkedin.com/in/juan-josserand
 
 <!-- Website: in progress... -->
