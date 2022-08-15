@@ -1,9 +1,8 @@
-## Hi 👋
+## Hi there 👋
 
-My name is Juan, I'm a programmer from Argentina.
+My name is Juan and I'm a programmer from Argentina.
 
 * Currently finishing a systems engineering degree at UNLPAM.
-* I'm interested in **backend engineering** stuff.
 
 ## Projects
 
@@ -20,10 +19,10 @@ My name is Juan, I'm a programmer from Argentina.
   - https://github.com/juanjoss/caesar-cipher
   - https://github.com/juanjoss/unidad-sanitaria
 
-* Just for Curiosity
+* Just for Fun
+  - https://github.com/juanjoss/shorturl
   - https://github.com/juanjoss/nn
   - https://github.com/juanjoss/golb
-  - https://github.com/juanjoss/shorturl
   - Compression Algorithms
     - https://github.com/juanjoss/LZ77
     - https://github.com/juanjoss/huffman
