@@ -6,6 +6,10 @@ My name is Juan and I'm a programmer from Argentina.
 
 ## Projects
 
+* Microservices
+    - https://github.com/juanjoss/shorturl
+    - https://github.com/juanjoss/qrgen
+
 * Open Food Facts API
   - https://github.com/juanjoss/off-project
     - https://github.com/juanjoss/off-etl
@@ -21,9 +25,6 @@ My name is Juan and I'm a programmer from Argentina.
   - https://github.com/juanjoss/unidad-sanitaria
 
 * Just for Fun
-  - Microservices
-    - https://github.com/juanjoss/shorturl
-    - https://github.com/juanjoss/qrgen
   - https://github.com/juanjoss/nn
   - https://github.com/juanjoss/golb
   - Compression Algorithms
