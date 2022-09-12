@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-My name is Juan and I'm a programmer from Argentina.
-
-* Currently finishing a systems engineering degree at UNLPAM.
+My name is Juan and I'm a software engineer from Argentina.
 
 ## Projects
 
@@ -35,5 +33,3 @@ My name is Juan and I'm a programmer from Argentina.
 Email: josserandjuan@gmail.com
 
 LinkedIn: https://linkedin.com/in/juan-josserand
-
-<!-- Website: in progress... -->
