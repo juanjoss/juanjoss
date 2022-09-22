@@ -7,20 +7,19 @@ My name is Juan and I'm a software engineer from Argentina.
 * Microservices
     - https://github.com/juanjoss/shorturl
     - https://github.com/juanjoss/qrgen
-
-* Open Food Facts API
-  - https://github.com/juanjoss/off-project
-    - https://github.com/juanjoss/off-etl
-    - https://github.com/juanjoss/off-generator
-    - https://github.com/juanjoss/off-orders-service
-    - https://github.com/juanjoss/off-users-service
+    - Open Food Facts API
+      - https://github.com/juanjoss/off-project
+        - https://github.com/juanjoss/off-etl
+        - https://github.com/juanjoss/off-generator
+        - https://github.com/juanjoss/off-orders-service
+        - https://github.com/juanjoss/off-users-service
 
 * Just for Fun
   - Compression Algorithms
     - https://github.com/juanjoss/LZ77
     - https://github.com/juanjoss/huffman
     - https://github.com/juanjoss/arco
-  - Beck-end Stuff
+  - Backend Stuff
     - https://github.com/juanjoss/golb
     - https://github.com/juanjoss/client-server-c
     - https://github.com/juanjoss/caesar-cipher
