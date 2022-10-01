@@ -13,6 +13,7 @@ My name is Juan and I'm a software engineer from Argentina.
         - https://github.com/juanjoss/off-generator
         - https://github.com/juanjoss/off-orders-service
         - https://github.com/juanjoss/off-users-service
+        - https://github.com/juanjoss/off-notifications-service
 
 * Just for Fun
   - Compression Algorithms
