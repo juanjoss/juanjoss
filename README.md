@@ -8,12 +8,12 @@ My name is Juan and I'm a software engineer from Argentina.
     - https://github.com/juanjoss/shorturl
     - https://github.com/juanjoss/qrgen
     - Open Food Facts API
-      - https://github.com/juanjoss/off-project
+      - https://github.com/juanjoss/off
         - https://github.com/juanjoss/off-etl
         - https://github.com/juanjoss/off-generator
-        - https://github.com/juanjoss/off-orders-service
-        - https://github.com/juanjoss/off-users-service
-        - https://github.com/juanjoss/off-notifications-service
+        - https://github.com/juanjoss/off-orders
+        - https://github.com/juanjoss/off-users
+        - https://github.com/juanjoss/off-notifications
 
 * Just for Fun
   - Compression Algorithms
@@ -26,7 +26,7 @@ My name is Juan and I'm a software engineer from Argentina.
     - https://github.com/juanjoss/caesar-cipher
     - https://github.com/juanjoss/pymail
   - AI
-    - https://github.com/juanjoss/nn
+    - https://github.com/juanjoss/glass-identification
 
 ## Contact
 
