@@ -4,6 +4,11 @@ My name is Juan and I'm a software engineer from Argentina.
 
 ## Projects
 
+* DevOps Stuff
+    - CI/CD GitOps Pipeline using GitHub Actions, ArgoCD and Terraform.
+        - https://github.com/juanjoss/xconfig   
+        - https://github.com/juanjoss/x
+
 * Microservices
     - URL shortener and QR generation service:
       - https://github.com/juanjoss/shorturl-plus-qrgen
