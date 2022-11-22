@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Juan and I'm a software engineer from Argentina.
+My name is Juan and I'm a system's engineer from Argentina.
 
 ## Projects
 
