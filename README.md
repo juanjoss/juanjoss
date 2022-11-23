@@ -12,15 +12,9 @@ My name is Juan and I'm a systems engineer from Argentina.
 * Microservices
     - URL shortener and QR generation services:
         - https://github.com/juanjoss/shorturl-plus-qrgen
-            - https://github.com/juanjoss/shorturl
-            - https://github.com/juanjoss/qrgen
+
     - Open Food Facts API:
         - https://github.com/juanjoss/off
-            - https://github.com/juanjoss/off-etl
-            - https://github.com/juanjoss/off-generator
-            - https://github.com/juanjoss/off-orders
-            - https://github.com/juanjoss/off-users
-            - https://github.com/juanjoss/off-notifications
 
 * Appointments System
     - https://github.com/juanjoss/appointments-system
