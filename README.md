@@ -7,7 +7,6 @@ My name is Juan and I'm a systems engineer from Argentina.
 * DevOps
     - CI/CD GitOps Pipeline using GitHub Actions, ArgoCD and Terraform.
         - https://github.com/juanjoss/xconfig
-        - https://github.com/juanjoss/x
 
 * Microservices
     - URL shortener and QR generation services:
